@@ -4,11 +4,12 @@
   "name": "Validation Checker",
   "description": "Computes Difference = Initial - Final and displays Pass/Fail results.",
   "author": "Your Name",
-  "icon": "https://yourdomain.com/icon.png",
-  "entry": "https://yourdomain.com/validation-extension/index.html",
+  "icon": "https://nilsegm.github.com/icon.png",
+  "entry": "https://nilsegm.github.com/validation-extension/index.html",
   "permissions": {
     "connectapi": true,
     "model": true,
     "files": true
   }
 }
+
